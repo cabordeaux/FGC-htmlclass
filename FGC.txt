@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<title> FGC HTML Class </title>
+	</head>
+
+	<body>
+		<h1 style = "color:blue;"> Hello World!</h1>
+		
+		<p> My name is Clovis.  I am a volunteer at Free Geek Chicago.</p>
+
+		<a href = "http://www.freegeekchicago.org/"> Visit our Website. </a>
+
+		<p>At Free Geek we take things out of computers 
+			<br>like this power supply for example:</p>
+
+		<img src= "http://www.best-off-grid-computers.com/images/Computer-Power-Supply-PC500W-.jpg" width="500" height="400">
+
+		<p>Free Geek is located in Vancouver,</p>
+		
+		<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxVQ0FbiIij0j-e-u9IhLL2yDjWipoyKPCoH1Wn9C_UTPHeB-XQ" width="500" height="400">
+	
+		<p>Portland,</p>
+
+		<img src= "https://encrypted-tbn0.gstatic.com/images?	q=tbn:ANd9GcTVmGB4iFuZObHXdIY2E8fmzwsd6mFI9fuH79g6bVgO_rvtGzy-NQ" width="500" height="400" alt = "a picture of Portland">
+
+		
+		<p>and other cities including 
+		 Chicago.</p>
+		
+		<img src= "https://a3.odistatic.net/images/landingpages/vacation/640x480/chicago_640x480.jpg" width="500" height ="400">
+
+		<p>  I enjoy knowing that I am doing something protect our environment! </p>
+			
+		<img src = "https://pbs.twimg.com/profile_images/2218822705/logo_square_notxt_400x400.png">
+
+	</body>
+
+</html>
